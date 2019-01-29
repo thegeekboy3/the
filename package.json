@@ -2,7 +2,7 @@
   "name": "fortnite-scrim-bot",
   "version": "0.0.1",
   "description": "A simple discord bot app built on discord.js",
-  "main": "bot/bot.js",
+  "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
   },
