@@ -4,7 +4,7 @@
   "description": "A simple discord bot app built on discord.js",
   "main": "bot/bot.js",
   "scripts": {
-    "start": "node bot/bot.js"
+    "start": "node bot.js"
   },
   "dependencies": {
     "discord.js": "^11.3.2",
